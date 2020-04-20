@@ -1,0 +1,73 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\cheesecake.png" />
+    <None Remove="Images\coffee.png" />
+    <None Remove="Images\coke.png" />
+    <None Remove="Images\cookie.png" />
+    <None Remove="Images\frappe.png" />
+    <None Remove="Images\hamburger.png" />
+    <None Remove="Images\hot chocolate.png" />
+    <None Remove="Images\Icecream.png" />
+    <None Remove="Images\iced tea.png" />
+    <None Remove="Images\latte.png" />
+    <None Remove="Images\milkshake.png" />
+    <None Remove="Images\pancake.png" />
+    <None Remove="Images\pasta.png" />
+    <None Remove="Images\pie.png" />
+    <None Remove="Images\pizza.png" />
+    <None Remove="Images\salad.png" />
+    <None Remove="Images\sandwich.png" />
+    <None Remove="Images\tea.png" />
+    <None Remove="Images\tiramisu.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\Cheesecake.png" />
+    <EmbeddedResource Include="Images\Coffee.png" />
+    <EmbeddedResource Include="Images\Coke.png" />
+    <EmbeddedResource Include="Images\Cookie.png" />
+    <EmbeddedResource Include="Images\Frappe.png" />
+    <EmbeddedResource Include="Images\Hamburger.png" />
+    <EmbeddedResource Include="Images\Hot Chocolate.png" />
+    <EmbeddedResource Include="Images\Icecream.png" />
+    <EmbeddedResource Include="Images\Iced Tea.png" />
+    <EmbeddedResource Include="Images\Latte.png" />
+    <EmbeddedResource Include="Images\Milkshake.png" />
+    <EmbeddedResource Include="Images\Pancake.png" />
+    <EmbeddedResource Include="Images\Pasta.png" />
+    <EmbeddedResource Include="Images\Pie.png" />
+    <EmbeddedResource Include="Images\Pizza.png" />
+    <EmbeddedResource Include="Images\Salad.png" />
+    <EmbeddedResource Include="Images\Sandwich.png" />
+    <EmbeddedResource Include="Images\Tea.png" />
+    <EmbeddedResource Include="Images\Tiramisu.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.4.0.991265" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Views\DetailPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\MenuListPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\OrderListPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
