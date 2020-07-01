@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OWb5KAiZ/DYhGZTjADHWgr7OTMfwdmNG0CoerRnEdFipzCG1fLlQAw4aw3jA5cQxO3HaMyAF9G3An/ogEEzI6A==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio-Workspace\\Udemy Xamarin\\CafeMenuApp\\CafeMenuApp.iOS\\CafeMenuApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aAsfaw\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\aAsfaw\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

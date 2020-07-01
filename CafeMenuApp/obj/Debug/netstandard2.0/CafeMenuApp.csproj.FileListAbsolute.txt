@@ -1,0 +1,48 @@
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\CafeMenuApp.deps.json
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\CafeMenuApp.dll
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\ref\CafeMenuApp.dll
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\CafeMenuApp.pdb
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.csprojAssemblyReference.cache
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\Views\MenuListPage.xaml.g.cs
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.csproj.CoreCompileInputs.cache
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.AssemblyInfoInputs.cache
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.AssemblyInfo.cs
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.dll
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\ref\CafeMenuApp.dll
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.pdb
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\Views\DetailPage.xaml.g.cs
+C:\Visual Studio-Workspace\Udemy Course\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\Views\OrderListPage.xaml.g.cs
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\CafeMenuApp.deps.json
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\CafeMenuApp.dll
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\ref\CafeMenuApp.dll
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\CafeMenuApp.pdb
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.csprojAssemblyReference.cache
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\Views\DetailPage.xaml.g.cs
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\Views\MenuListPage.xaml.g.cs
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\Views\OrderListPage.xaml.g.cs
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.csproj.CoreCompileInputs.cache
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.AssemblyInfoInputs.cache
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.AssemblyInfo.cs
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.dll
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\ref\CafeMenuApp.dll
+C:\Visual Studio-Workspace\Udemy- Xamarin Build Native Cross Platform Apps with C# Codes\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.pdb
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\CafeMenuApp.deps.json
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\CafeMenuApp.dll
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\ref\CafeMenuApp.dll
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\bin\Debug\netstandard2.0\CafeMenuApp.pdb
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.csprojAssemblyReference.cache
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\Views\DetailPage.xaml.g.cs
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\Views\MenuListPage.xaml.g.cs
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\Views\OrderListPage.xaml.g.cs
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.AssemblyInfoInputs.cache
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.AssemblyInfo.cs
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.csproj.CoreCompileInputs.cache
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.dll
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\ref\CafeMenuApp.dll
+C:\Visual Studio-Workspace\Udemy Xamarin\CafeMenuApp\CafeMenuApp\obj\Debug\netstandard2.0\CafeMenuApp.pdb

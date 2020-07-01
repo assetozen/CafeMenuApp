@@ -21,6 +21,8 @@ namespace CafeMenuApp.Models
         public bool Checked { get => _checked;
             set 
             {
+
+
                 _checked = value;
                 OnPropertyChanged("Checked");
             }
